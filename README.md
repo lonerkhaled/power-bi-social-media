@@ -1,4 +1,4 @@
-#Social Media Analytics Dashboard
+# Social Media Analytics Dashboard
 Overview
 This project is an interactive dashboard designed to analyze and visualize social media performance metrics across platforms such as Instagram, Facebook, LinkedIn, and X. The dashboard provides a clear and intuitive interface to track trends, measure engagement, and gain actionable insights for data-driven decision-making.
 
